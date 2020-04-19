@@ -1,0 +1,3053 @@
+[
+    {
+        "name": "VERI-Wild",
+        "url": "https://github.com/PKU-IMRE/VERI-Wild",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "e8eedfa98a53ac120d21d56b3b92137e9f82e8f1",
+        "authors": []
+    },
+    {
+        "name": "ImageNet-A",
+        "url": "https://github.com/hendrycks/natural-adv-examples",
+        "badge": "none",
+        "type": "image",
+        "id": "a56bf1c7711061b8f2f19f252b3a49ed8d37669a",
+        "authors": [
+            {
+                "email": "hendrycks@berkeley.edu",
+                "link": "https://people.eecs.berkeley.edu/~hendrycks/",
+                "name": "Dan Hendrycks"
+            }
+        ]
+    },
+    {
+        "name": "FSS-1000",
+        "url": "https://github.com/HKUSTCV/FSS-1000",
+        "badge": "HKUST",
+        "type": "image",
+        "id": "f3f01d7306a20b3d7482b652c711705c05ba6066",
+        "authors": [
+            {
+                "email": "tweiab@connect.ust.hk",
+                "link": "https://www.linkedin.com/in/tianhan-wei-843817115/",
+                "name": "Tianhan Wei"
+            }
+        ]
+    },
+    {
+        "name": "HouseExpo",
+        "url": "https://github.com/teaganli/houseexpo/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL3RlYWdhbmxpL2hvdXNlZXhwby8=",
+        "authors": []
+    },
+    {
+        "name": "The UZH-FPV Drone Racing Dataset",
+        "url": "http://rpg.ifi.uzh.ch/uzh-fpv.html",
+        "type": "image",
+        "id": "aHR0cDovL3JwZy5pZmkudXpoLmNoL3V6aC1mcHYuaHRtbA==",
+        "authors": []
+    },
+    {
+        "name": "MASSVIS",
+        "url": "http://massvis.mit.edu/",
+        "type": "image",
+        "id": "aHR0cDovL21hc3N2aXMubWl0LmVkdS8=",
+        "authors": [
+            {
+                "email": "massvis@mit.edu",
+                "name": "Massvis Team"
+            }
+        ]
+    },
+    {
+        "name": "Creative Flow+ Dataset",
+        "url": "http://www.cs.toronto.edu/creativeflow/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "b338b2ba28a53c12b527235ea6bae1ba0d68012e",
+        "authors": [
+            {
+                "email": "shumash@gmail.com",
+                "link": "http://www.shumash.com/",
+                "name": "Masha Shugrina"
+            }
+        ]
+    },
+    {
+        "name": "MVTec AD",
+        "url": "https://www.mvtec.com/company/research/datasets/mvtec-ad/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "87b92b92d03bc37001d984dc441b4258295d6ca4",
+        "authors": []
+    },
+    {
+        "name": "Argoverse",
+        "url": "https://www.argoverse.org/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "70adb8bf8ac495fd0dde280c8d8be3b8ff7f3e63",
+        "authors": []
+    },
+    {
+        "name": "AADB",
+        "url": "http://www.ics.uci.edu/~skong2/aesthetics.html",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5pY3MudWNpLmVkdS9+c2tvbmcyL2Flc3RoZXRpY3MuaHRtbA==",
+        "authors": []
+    },
+    {
+        "name": "Hotels-50K",
+        "url": "https://github.com/GWUvision/Hotels-50K",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL0dXVXZpc2lvbi9Ib3RlbHMtNTBL",
+        "authors": [
+            {
+                "email": "abby@wustl.edu",
+                "link": "https://research.engineering.wustl.edu/~astylianou/",
+                "name": "ABBY STYLIANOU"
+            }
+        ]
+    },
+    {
+        "name": "MVOR",
+        "url": "https://git.unistra.fr/CAMMA-public/mvor",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXQudW5pc3RyYS5mci9DQU1NQS1wdWJsaWMvbXZvcg==",
+        "authors": []
+    },
+    {
+        "name": "Cityscapes Dataset",
+        "url": "https://www.cityscapes-dataset.com/",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cuY2l0eXNjYXBlcy1kYXRhc2V0LmNvbS8=",
+        "authors": []
+    },
+    {
+        "name": "Animals on the Web",
+        "url": "http://tamaraberg.com/animalDataset/index.html",
+        "type": "image",
+        "id": "aHR0cDovL3RhbWFyYWJlcmcuY29tL2FuaW1hbERhdGFzZXQvaW5kZXguaHRtbA==",
+        "authors": []
+    },
+    {
+        "name": "DrivingStereo",
+        "url": "https://drivingstereo-dataset.github.io/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "2e20d3f1ca23c80d65d7fd0bbb0511a8401dd5f4",
+        "authors": []
+    },
+    {
+        "name": "TME Motorway Dataset",
+        "url": "http://cmp.felk.cvut.cz/data/motorway/",
+        "type": "image",
+        "id": "aHR0cDovL2NtcC5mZWxrLmN2dXQuY3ovZGF0YS9tb3RvcndheS8=",
+        "authors": []
+    },
+    {
+        "name": "iMat - Fashion",
+        "url": "https://github.com/visipedia/imat_comp",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL3Zpc2lwZWRpYS9pbWF0X2NvbXA=",
+        "authors": []
+    },
+    {
+        "name": "highD - The Highway Drone Dataset",
+        "url": "https://www.highd-dataset.com/",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cuaGlnaGQtZGF0YXNldC5jb20v",
+        "authors": []
+    },
+    {
+        "name": "Joint Track Auto (JTA)",
+        "url": "http://imagelab.ing.unimore.it/jta",
+        "type": "image",
+        "id": "aHR0cDovL2ltYWdlbGFiLmluZy51bmltb3JlLml0L2p0YQ==",
+        "authors": []
+    },
+    {
+        "name": "SLAC",
+        "url": "http://slac.csail.mit.edu/",
+        "type": "image",
+        "id": "aHR0cDovL3NsYWMuY3NhaWwubWl0LmVkdS8=",
+        "authors": []
+    },
+    {
+        "name": "KITTI Vision Benchmark",
+        "url": "http://www.cvlibs.net/datasets/kitti/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5jdmxpYnMubmV0L2RhdGFzZXRzL2tpdHRpLw==",
+        "authors": []
+    },
+    {
+        "name": "MegaAge",
+        "url": "http://mmlab.ie.cuhk.edu.hk/projects/MegaAge/",
+        "type": "image",
+        "id": "aHR0cDovL21tbGFiLmllLmN1aGsuZWR1LmhrL3Byb2plY3RzL01lZ2FBZ2Uv",
+        "authors": []
+    },
+    {
+        "name": "Urban Object Detection Dataset",
+        "url": "http://www.rovit.ua.es/dataset/traffic/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5yb3ZpdC51YS5lcy9kYXRhc2V0L3RyYWZmaWMv",
+        "authors": []
+    },
+    {
+        "name": "Chalearn CASIA-SURF Dataset",
+        "url": "https://sites.google.com/qq.com/chalearnfacespoofingattackdete/dataset",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "b463daf61d8be73422d39feb7f6030fcd7ff032b",
+        "authors": []
+    },
+    {
+        "name": "Yelp Dataset",
+        "url": "https://www.yelp.com/dataset",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cueWVscC5jb20vZGF0YXNldA==",
+        "authors": []
+    },
+    {
+        "name": "ApolloScape",
+        "url": "http://apolloscape.auto/index.html",
+        "type": "image",
+        "id": "aHR0cDovL2Fwb2xsb3NjYXBlLmF1dG8vaW5kZXguaHRtbA==",
+        "authors": []
+    },
+    {
+        "name": "Open Images V4",
+        "url": "https://ai.googleblog.com/2018/04/announcing-open-images-v4-and-eccv-2018.html",
+        "type": "image",
+        "id": "aHR0cHM6Ly9haS5nb29nbGVibG9nLmNvbS8yMDE4LzA0L2Fubm91bmNpbmctb3Blbi1pbWFnZXMtdjQtYW5kLWVjY3YtMjAxOC5odG1s",
+        "authors": []
+    },
+    {
+        "name": "Food-475 Database",
+        "url": "http://www.ivl.disco.unimib.it/activities/food475db/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5pdmwuZGlzY28udW5pbWliLml0L2FjdGl2aXRpZXMvZm9vZDQ3NWRiLw==",
+        "authors": []
+    },
+    {
+        "name": "VizWiz Dataset",
+        "url": "http://vizwiz.org/data/",
+        "type": "image",
+        "id": "aHR0cDovL3Zpendpei5vcmcvZGF0YS8=",
+        "authors": []
+    },
+    {
+        "name": "AVA Video Action Dataset",
+        "url": "https://research.google.com/ava/index.html",
+        "type": "image",
+        "id": "aHR0cHM6Ly9yZXNlYXJjaC5nb29nbGUuY29tL2F2YS9pbmRleC5odG1s",
+        "authors": []
+    },
+    {
+        "name": "SAVOIAS",
+        "url": "https://github.com/esaraee/Savoias-Dataset",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2VzYXJhZWUvU2F2b2lhcy1EYXRhc2V0",
+        "authors": [
+            {
+                "link": "http://monajalal.com/",
+                "name": "Mona Jalal"
+            }
+        ]
+    },
+    {
+        "name": "comma2k19",
+        "url": "https://github.com/commaai/comma2k19",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2NvbW1hYWkvY29tbWEyazE5",
+        "authors": [
+            {
+                "link": "https://comma.ai/",
+                "name": "comma.ai"
+            }
+        ]
+    },
+    {
+        "name": "ModaNet",
+        "url": "https://github.com/eBay/modanet",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2VCYXkvbW9kYW5ldA==",
+        "authors": [
+            {
+                "email": "szhengcvpr@gmail.com",
+                "link": "https://kylezheng.org/",
+                "name": "Shuai Zheng"
+            }
+        ]
+    },
+    {
+        "name": "UFPR-AMR Dataset",
+        "url": "https://web.inf.ufpr.br/vri/databases/ufpr-amr/",
+        "type": "image",
+        "id": "aHR0cHM6Ly93ZWIuaW5mLnVmcHIuYnIvdnJpL2RhdGFiYXNlcy91ZnByLWFtci8=",
+        "authors": [
+            {
+                "email": "rblsantos@inf.ufpr.br",
+                "link": "http://www.inf.ufpr.br/rblsantos/",
+                "name": " Rayson Laroca"
+            }
+        ]
+    },
+    {
+        "name": "Total Text Dataset",
+        "url": "https://github.com/cs-chan/Total-Text-Dataset",
+        "badge": "ICDAR17",
+        "type": "image",
+        "id": "899762570e3845ad6e1ba20221eb9f256c31d448",
+        "authors": []
+    },
+    {
+        "name": "IP102",
+        "url": "https://github.com/xpwu95/IP102",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "01a940ab3e63a94fe9d63d97e6d8d17582383469",
+        "authors": []
+    },
+    {
+        "name": "Multiple Pose Human Body Database",
+        "url": "http://parnec.nuaa.edu.cn/xtan/data/MPHB.html",
+        "type": "image",
+        "id": "aHR0cDovL3Bhcm5lYy5udWFhLmVkdS5jbi94dGFuL2RhdGEvTVBIQi5odG1s",
+        "authors": []
+    },
+    {
+        "name": "nuScenes Dataset",
+        "url": "https://www.nuscenes.org/",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cubnVzY2VuZXMub3JnLw==",
+        "authors": [
+            {
+                "link": "https://www.aptiv.com/",
+                "name": "Aptiv"
+            }
+        ]
+    },
+    {
+        "name": "MIMIC-CXR",
+        "url": "https://physionet.org/content/mimic-cxr/2.0.0/",
+        "badge": "none",
+        "type": "image",
+        "id": "aHR0cHM6Ly9waHlzaW9uZXQubmxtLm5paC5nb3YvcGh5c2lvYmFuay9kYXRhYmFzZS9taW1pY2N4ci8=",
+        "authors": []
+    },
+    {
+        "name": "Bark-101 Dataset",
+        "url": "http://eidolon.univ-lyon2.fr/~remi1/Bark-101/",
+        "type": "image",
+        "id": "f9c46b0b71e65eb95fa9900dd59801c76cbdabdf",
+        "authors": []
+    },
+    {
+        "name": "Stanford Drone Dataset",
+        "url": "http://cvgl.stanford.edu/projects/uav_data/",
+        "type": "image",
+        "id": "aHR0cDovL2N2Z2wuc3RhbmZvcmQuZWR1L3Byb2plY3RzL3Vhdl9kYXRhLw==",
+        "authors": []
+    },
+    {
+        "name": "Coins Dataset",
+        "url": "https://github.com/despoisj/CoinsDataset",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2Rlc3BvaXNqL0NvaW5zRGF0YXNldA==",
+        "authors": []
+    },
+    {
+        "name": "LS3D-W",
+        "url": "https://www.adrianbulat.com/face-alignment",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cuYWRyaWFuYnVsYXQuY29tL2ZhY2UtYWxpZ25tZW50",
+        "authors": [
+            {
+                "link": "https://www.adrianbulat.com/",
+                "name": "Adrian Bulat"
+            }
+        ]
+    },
+    {
+        "name": "B-MOD",
+        "url": "https://pero.fit.vutbr.cz/brno_mobile_ocr_dataset",
+        "badge": "ICDAR2019",
+        "type": "image",
+        "id": "b4d97cf1b0779e49bd6697685409e9d02729cbea",
+        "authors": []
+    },
+    {
+        "name": "fastMRI",
+        "url": "http://fastmri.org/",
+        "type": "image",
+        "id": "aHR0cDovL2Zhc3Rtcmkub3JnLw==",
+        "authors": []
+    },
+    {
+        "name": "The Massively Multilingual Image Dataset ",
+        "url": "http://multilingual-images.org/",
+        "type": "image",
+        "id": "aHR0cDovL211bHRpbGluZ3VhbC1pbWFnZXMub3JnLw==",
+        "authors": []
+    },
+    {
+        "name": "MURA",
+        "url": "https://stanfordmlgroup.github.io/competitions/mura/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9zdGFuZm9yZG1sZ3JvdXAuZ2l0aHViLmlvL2NvbXBldGl0aW9ucy9tdXJhLw==",
+        "authors": [
+            {
+                "link": "https://stanfordmlgroup.github.io/",
+                "name": "Stanford ML Group"
+            }
+        ]
+    },
+    {
+        "name": "Synthetic Human Model Dataset",
+        "url": "https://research.csiro.au/robotics/our-work/databases/synthetic-human-model-dataset/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9yZXNlYXJjaC5jc2lyby5hdS9yb2JvdGljcy9vdXItd29yay9kYXRhYmFzZXMvc3ludGhldGljLWh1bWFuLW1vZGVsLWRhdGFzZXQv",
+        "authors": []
+    },
+    {
+        "name": "ShapeStacks",
+        "url": "https://shapestacks.robots.ox.ac.uk/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9zaGFwZXN0YWNrcy5yb2JvdHMub3guYWMudWsv",
+        "authors": [
+            {
+                "email": "ogroth@robots.ox.ac.uk",
+                "link": "https://ori.ox.ac.uk/ori-people/oliver-groth/",
+                "name": "Oliver Groth"
+            }
+        ]
+    },
+    {
+        "name": "KTH Action Database",
+        "url": "http://www.nada.kth.se/cvap/actions/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5uYWRhLmt0aC5zZS9jdmFwL2FjdGlvbnMv",
+        "authors": []
+    },
+    {
+        "name": "WildLife Documentary Dataset",
+        "url": "https://github.com/hellock/WLD",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2hlbGxvY2svV0xE",
+        "authors": []
+    },
+    {
+        "name": "DPED: DSLR Photo Enhancement Dataset",
+        "url": "http://people.ee.ethz.ch/~ihnatova/#dataset",
+        "type": "image",
+        "id": "aHR0cDovL3Blb3BsZS5lZS5ldGh6LmNoL35paG5hdG92YS8jZGF0YXNldA==",
+        "authors": []
+    },
+    {
+        "name": "Facebook OpenEDS",
+        "url": "https://research.fb.com/programs/openeds-challenge",
+        "type": "image",
+        "id": "aHR0cHM6Ly9yZXNlYXJjaC5mYi5jb20vcHJvZ3JhbXMvb3BlbmVkcy1jaGFsbGVuZ2U=",
+        "authors": []
+    },
+    {
+        "name": "RAVEN",
+        "url": "http://wellyzhang.github.io/project/raven.html",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "9138dfe1deaf7e0337a85769fe6a2e793601c287",
+        "authors": []
+    },
+    {
+        "name": "COCO Africa Masks",
+        "url": "https://victordibia.github.io/cocoafrica/",
+        "type": "image",
+        "id": "aHR0cHM6Ly92aWN0b3JkaWJpYS5naXRodWIuaW8vY29jb2FmcmljYS8=",
+        "authors": []
+    },
+    {
+        "name": "Synthia Dataset",
+        "url": "http://synthia-dataset.net/",
+        "type": "image",
+        "id": "aHR0cDovL3N5bnRoaWEtZGF0YXNldC5uZXQv",
+        "authors": [
+            {
+                "link": "http://adas.cvc.uab.es/",
+                "name": "Advanced Driver Assistance Systems research group, Universitat Aut\u00f2noma de Barcelona"
+            }
+        ]
+    },
+    {
+        "name": "Bitewing Radiology Dataset",
+        "url": "http://www-o.ntust.edu.tw/~cweiwang/ISBI2015/challenge2/index.html",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy1vLm50dXN0LmVkdS50dy9+Y3dlaXdhbmcvSVNCSTIwMTUvY2hhbGxlbmdlMi9pbmRleC5odG1s",
+        "authors": []
+    },
+    {
+        "name": "MPII Human Pose Dataset",
+        "url": "http://human-pose.mpi-inf.mpg.de/",
+        "type": "image",
+        "id": "aHR0cDovL2h1bWFuLXBvc2UubXBpLWluZi5tcGcuZGUv",
+        "authors": []
+    },
+    {
+        "name": "Diversity in Faces (DiF)",
+        "url": "https://www.research.ibm.com/artificial-intelligence/trusted-ai/diversity-in-faces/",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cucmVzZWFyY2guaWJtLmNvbS9hcnRpZmljaWFsLWludGVsbGlnZW5jZS90cnVzdGVkLWFpL2RpdmVyc2l0eS1pbi1mYWNlcy8=",
+        "authors": [
+            {
+                "name": "IBM"
+            }
+        ]
+    },
+    {
+        "name": "QMNIST",
+        "url": "https://github.com/facebookresearch/qmnist",
+        "badge": "Facebook",
+        "type": "image",
+        "id": "bbec022519f9383ddba7ebdd96cf72402eaebb1a",
+        "authors": []
+    },
+    {
+        "name": "UCF-Crime Dataset",
+        "url": "https://www.crcv.ucf.edu/projects/real-world/",
+        "type": "image",
+        "id": "53ee6b2626716af817bca48796f6ff0c2eb46852",
+        "authors": []
+    },
+    {
+        "name": "Earth on AWS",
+        "url": "https://aws.amazon.com/earth/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9lYXJ0aC8=",
+        "authors": []
+    },
+    {
+        "name": "DeepFashion2",
+        "url": "https://github.com/switchablenorms/DeepFashion2",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "5c3b8e8e178dfdc4ca6b485000849ad853b80387",
+        "authors": []
+    },
+    {
+        "name": "Robot@Home dataset",
+        "url": "http://mapir.isa.uma.es/mapirwebsite/index.php/mapir-downloads/203-robot-at-home-dataset.html",
+        "type": "image",
+        "id": "aHR0cDovL21hcGlyLmlzYS51bWEuZXMvbWFwaXJ3ZWJzaXRlL2luZGV4LnBocC9tYXBpci1kb3dubG9hZHMvMjAzLXJvYm90LWF0LWhvbWUtZGF0YXNldC5odG1s",
+        "authors": [
+            {
+                "email": "jotaraul@uma.es",
+                "link": "http://mapir.uma.es/mapirwebsite/index.php/people/108-jose-raul-ruiz-sarmiento",
+                "name": "J.R. Ruiz-Sarmiento"
+            }
+        ]
+    },
+    {
+        "name": "Scan2CAD",
+        "url": "https://github.com/skanti/Scan2CAD",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL3NrYW50aS9TY2FuMkNBRA==",
+        "authors": []
+    },
+    {
+        "name": "CrowdPose",
+        "url": "https://github.com/Jeff-sjtu/CrowdPose",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "6236dd7044a0458922cceb886a6a471889186855",
+        "authors": []
+    },
+    {
+        "name": "NetiLook",
+        "url": "https://mashyu.github.io/NSC/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9tYXNoeXUuZ2l0aHViLmlvL05TQy8=",
+        "authors": []
+    },
+    {
+        "name": "InteriorNet",
+        "url": "https://interiornet.org/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9pbnRlcmlvcm5ldC5vcmcv",
+        "authors": []
+    },
+    {
+        "name": "ActivityNet",
+        "url": "http://activity-net.org/",
+        "type": "image",
+        "id": "aHR0cDovL2FjdGl2aXR5LW5ldC5vcmcv",
+        "authors": []
+    },
+    {
+        "name": "BDD100K",
+        "url": "http://bdd-data.berkeley.edu/wad-2018.html",
+        "type": "image",
+        "id": "aHR0cDovL2JkZC1kYXRhLmJlcmtlbGV5LmVkdS93YWQtMjAxOC5odG1s",
+        "authors": []
+    },
+    {
+        "name": "Lane Marker Dataset",
+        "url": "https://unsupervised-llamas.com/llamas/",
+        "type": "image",
+        "id": "cc4e5e0352218dc49ac9e2c8e4f29db46d9f4af1",
+        "authors": []
+    },
+    {
+        "name": "LAG Database",
+        "url": "https://github.com/smilell/AG-CNN",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "0f451473c42b3860173c63fce5e1f7350f851050",
+        "authors": []
+    },
+    {
+        "name": "SIXray",
+        "url": "https://github.com/MeioJane/SIXray",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "c0a64db2dce1d823e90d1c9594ea7a04ead58076",
+        "authors": []
+    },
+    {
+        "name": "CGIntrinsics",
+        "url": "http://www.cs.cornell.edu/projects/cgintrinsics/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5jcy5jb3JuZWxsLmVkdS9wcm9qZWN0cy9jZ2ludHJpbnNpY3Mv",
+        "authors": [
+            {
+                "link": "http://www.cs.cornell.edu/~zl548/",
+                "name": "Zhengqi Li"
+            },
+            {
+                "link": "http://www.cs.cornell.edu/~snavely/",
+                "name": "Noah Snavely"
+            }
+        ]
+    },
+    {
+        "name": "Cornell NLVR",
+        "url": "http://lic.nlp.cornell.edu/nlvr/",
+        "type": "image",
+        "id": "aHR0cDovL2xpYy5ubHAuY29ybmVsbC5lZHUvbmx2ci8=",
+        "authors": [
+            {
+                "email": "suhr@cs.cornell.edu",
+                "link": "http://alanesuhr.com/",
+                "name": "Alane Suhr"
+            }
+        ]
+    },
+    {
+        "name": "Wider Attribute Dataset",
+        "url": "none",
+        "type": "image",
+        "id": "bm9uZQ==",
+        "authors": []
+    },
+    {
+        "name": "VoxCeleb",
+        "url": "http://www.robots.ox.ac.uk/~vgg/data/voxceleb/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5yb2JvdHMub3guYWMudWsvfnZnZy9kYXRhL3ZveGNlbGViLw==",
+        "authors": []
+    },
+    {
+        "name": "Bosch Small Traffic Lights Dataset",
+        "url": "https://hci.iwr.uni-heidelberg.de/node/6132",
+        "type": "image",
+        "id": "f1d59edffcd846aa664ef602fe24a1a631cb22be",
+        "authors": [
+            {
+                "email": "bstld@kbehrendt.com",
+                "link": "https://scholar.google.com/citations?user=cIbdTdIAAAAJ&hl=en",
+                "name": "Karsten Behrendt"
+            }
+        ]
+    },
+    {
+        "name": "Moments in Time",
+        "url": "http://moments.csail.mit.edu/",
+        "type": "image",
+        "id": "aHR0cDovL21vbWVudHMuY3NhaWwubWl0LmVkdS8=",
+        "authors": []
+    },
+    {
+        "name": "ImageNet-Sketch",
+        "url": "https://github.com/HaohanWang/ImageNet-Sketch",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL0hhb2hhbldhbmcvSW1hZ2VOZXQtU2tldGNo",
+        "authors": [
+            {
+                "email": "haohanw@cs.cmu.edu",
+                "link": "http://www.cs.cmu.edu/~haohanw/",
+                "name": "Haohan Wang"
+            }
+        ]
+    },
+    {
+        "name": "Lyft Level 5 AV Dataset",
+        "url": "https://level5.lyft.com/dataset/",
+        "badge": "Lyft",
+        "type": "image",
+        "id": "fecb5c291a25abcffd7a236e7d12059fa9e0c6e1",
+        "authors": []
+    },
+    {
+        "name": "Manga109",
+        "url": "http://www.manga109.org/en/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5tYW5nYTEwOS5vcmcvZW4v",
+        "authors": []
+    },
+    {
+        "name": "Cephalometric X-Ray",
+        "url": "http://www-o.ntust.edu.tw/~cweiwang/ISBI2015/challenge1/index.html",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy1vLm50dXN0LmVkdS50dy9+Y3dlaXdhbmcvSVNCSTIwMTUvY2hhbGxlbmdlMS9pbmRleC5odG1s",
+        "authors": []
+    },
+    {
+        "name": "Visual Sentiment Ontology",
+        "url": "http://www.ee.columbia.edu/ln/dvmm/vso/download/flickr_dataset.html",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5lZS5jb2x1bWJpYS5lZHUvbG4vZHZtbS92c28vZG93bmxvYWQvZmxpY2tyX2RhdGFzZXQuaHRtbA==",
+        "authors": []
+    },
+    {
+        "name": "COIN",
+        "url": "https://coin-dataset.github.io/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "6e1467e84f1edcbde8e876c14d47380562e52776",
+        "authors": []
+    },
+    {
+        "name": "DeepLeague",
+        "url": "https://github.com/farzaa/DeepLeague",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2ZhcnphYS9EZWVwTGVhZ3Vl",
+        "authors": []
+    },
+    {
+        "name": "Brazilian Coins",
+        "url": "https://www.kaggle.com/lgmoneda/br-coins",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cua2FnZ2xlLmNvbS9sZ21vbmVkYS9ici1jb2lucw==",
+        "authors": []
+    },
+    {
+        "name": "RGB-D Panorama Dataset",
+        "url": "http://im2pano3d.cs.princeton.edu/",
+        "type": "image",
+        "id": "aHR0cDovL2ltMnBhbm8zZC5jcy5wcmluY2V0b24uZWR1Lw==",
+        "authors": []
+    },
+    {
+        "name": "PadChest",
+        "url": "http://bimcv.cipf.es/bimcv-projects/padchest/",
+        "type": "image",
+        "id": "aHR0cDovL2JpbWN2LmNpcGYuZXMvYmltY3YtcHJvamVjdHMvcGFkY2hlc3Qv",
+        "authors": [
+            {
+                "name": "Aurelia Bustos"
+            }
+        ]
+    },
+    {
+        "name": "CED",
+        "url": "http://rpg.ifi.uzh.ch/CED.html",
+        "type": "image",
+        "id": "aHR0cDovL3JwZy5pZmkudXpoLmNoL0NFRC5odG1s",
+        "authors": []
+    },
+    {
+        "name": "Syn2Real",
+        "url": "http://ai.bu.edu/syn2real/",
+        "type": "image",
+        "id": "aHR0cDovL2FpLmJ1LmVkdS9zeW4ycmVhbC8=",
+        "authors": []
+    },
+    {
+        "name": "UNIMIB Food Database",
+        "url": "http://www.ivl.disco.unimib.it/activities/food-recognition/",
+        "type": "image",
+        "id": "0a82f4ad97ed0392929e525d0217afd148f7a7a2",
+        "authors": [
+            {
+                "email": "ciocca@disco.unimib.it",
+                "link": "http://www.ivl.disco.unimib.it/people/gianluigi-ciocca/",
+                "name": "Gianluigi Ciocca"
+            }
+        ]
+    },
+    {
+        "name": "Google Open Images V5",
+        "url": "https://storage.googleapis.com/openimages/web/index.html?v5",
+        "type": "image",
+        "id": "aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL29wZW5pbWFnZXMvd2ViL2luZGV4Lmh0bWw/djU=",
+        "authors": []
+    },
+    {
+        "name": "PartNet",
+        "url": "https://cs.stanford.edu/~kaichun/partnet/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "0b5c56653dfab9dda30b49c972beb6f4cad990cf",
+        "authors": [
+            {
+                "email": "kaichun@cs.stanford.edu",
+                "link": "https://cs.stanford.edu/~kaichun/",
+                "name": "Kaichun Mo"
+            }
+        ]
+    },
+    {
+        "name": "Figure QA",
+        "url": "https://datasets.maluuba.com/FigureQA",
+        "type": "image",
+        "id": "aHR0cHM6Ly9kYXRhc2V0cy5tYWx1dWJhLmNvbS9GaWd1cmVRQQ==",
+        "authors": []
+    },
+    {
+        "name": "Image and Video Advertisements",
+        "url": "http://people.cs.pitt.edu/~kovashka/ads/",
+        "type": "image",
+        "id": "aHR0cDovL3Blb3BsZS5jcy5waXR0LmVkdS9+a292YXNoa2EvYWRzLw==",
+        "authors": []
+    },
+    {
+        "name": "PedX Dataset",
+        "url": "http://pedx.io/",
+        "badge": "none",
+        "type": "image",
+        "id": "5784d8d4afc54fb05987e05d25956ad51a6f7486",
+        "authors": []
+    },
+    {
+        "name": "ApolloCar3D",
+        "url": "http://apolloscape.auto/car_instance.html",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "98dca8bbefb1af0d10ea737390adc10ae5d52fef",
+        "authors": []
+    },
+    {
+        "name": "CQ500",
+        "url": "http://headctstudy.qure.ai/#dataset",
+        "type": "image",
+        "id": "aHR0cDovL2hlYWRjdHN0dWR5LnF1cmUuYWkvI2RhdGFzZXQ=",
+        "authors": [
+            {
+                "email": "partner@qure.ai",
+                "link": "http://qure.ai/",
+                "name": "qure.ai"
+            }
+        ]
+    },
+    {
+        "name": "Coin Collection",
+        "url": "http://pelagios.org/peripleo/pages/datasets/4e0d8e0442d0ab6d61431dbfccb5a51da852ca655f50ad77c284672dc797574f",
+        "type": "image",
+        "id": "aHR0cDovL3BlbGFnaW9zLm9yZy9wZXJpcGxlby9wYWdlcy9kYXRhc2V0cy80ZTBkOGUwNDQyZDBhYjZkNjE0MzFkYmZjY2I1YTUxZGE4NTJjYTY1NWY1MGFkNzdjMjg0NjcyZGM3OTc1NzRm",
+        "authors": []
+    },
+    {
+        "name": "NavigationNet",
+        "url": "http://mvig.sjtu.edu.cn/research/nav/NavigationNet.html",
+        "type": "image",
+        "id": "aHR0cDovL212aWcuc2p0dS5lZHUuY24vcmVzZWFyY2gvbmF2L05hdmlnYXRpb25OZXQuaHRtbA==",
+        "authors": []
+    },
+    {
+        "name": "NightOwls",
+        "url": "http://www.nightowls-dataset.org/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5uaWdodG93bHMtZGF0YXNldC5vcmcv",
+        "authors": []
+    },
+    {
+        "name": "SKU-110K",
+        "url": "https://github.com/eg4000/SKU110K_CVPR19",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "ed56b45563c5a9cce8fde09718726d1bbb8e8642",
+        "authors": []
+    },
+    {
+        "name": "ABC Dataset",
+        "url": "https://deep-geometry.github.io/abc-dataset/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9kZWVwLWdlb21ldHJ5LmdpdGh1Yi5pby9hYmMtZGF0YXNldC8=",
+        "authors": []
+    },
+    {
+        "name": "LIP (Look into Person)",
+        "url": "http://www.sysu-hcp.net/lip/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5zeXN1LWhjcC5uZXQvbGlwLw==",
+        "authors": []
+    },
+    {
+        "name": "DensePose",
+        "url": "http://densepose.org/",
+        "type": "image",
+        "id": "aHR0cDovL2RlbnNlcG9zZS5vcmcv",
+        "authors": []
+    },
+    {
+        "name": "Segway DRIVE Benchmark",
+        "url": "http://drive.segwayrobotics.com/#/overview/index",
+        "badge": "Segway",
+        "type": "image",
+        "id": "79172d22bed96853f1140124f903ca4d4f56730f",
+        "authors": []
+    },
+    {
+        "name": "First-Person Hand Action Benchmark",
+        "url": "https://guiggh.github.io/publications/first-person-hands/",
+        "badge": "CVPR2018",
+        "type": "image",
+        "id": "98bfd0b8110dfcfef388636f2b3ee94417397f7d",
+        "authors": [
+            {
+                "email": "g.garcia-hernando@imperial.ac.uk",
+                "link": "https://guiggh.github.io/",
+                "name": "Guillermo Garcia-Hernando"
+            }
+        ]
+    },
+    {
+        "name": "HistAerial",
+        "url": "http://eidolon.univ-lyon2.fr/~remi1/HistAerialDataset/",
+        "type": "image",
+        "id": "92560c080a4b325155608aeef0afa9d53094a442",
+        "authors": []
+    },
+    {
+        "name": "PoseTrack",
+        "url": "https://posetrack.net/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9wb3NldHJhY2submV0Lw==",
+        "authors": []
+    },
+    {
+        "name": "Grocery Store Dataset",
+        "url": "https://github.com/marcusklasson/GroceryStoreDataset",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL21hcmN1c2tsYXNzb24vR3JvY2VyeVN0b3JlRGF0YXNldA==",
+        "authors": []
+    },
+    {
+        "name": "Multi-Purpose Image Deraining (MPID)",
+        "url": "https://github.com/lsy17096535/Single-Image-Deraining",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "d784a7bf6996281526c07de8e08b5583976ab09e",
+        "authors": []
+    },
+    {
+        "name": "Coin Image Dataset",
+        "url": "https://www.caa.tuwien.ac.at/cvl/research/cvl-databases/coin-image-dataset/",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cuY2FhLnR1d2llbi5hYy5hdC9jdmwvcmVzZWFyY2gvY3ZsLWRhdGFiYXNlcy9jb2luLWltYWdlLWRhdGFzZXQv",
+        "authors": [
+            {
+                "link": "http://www.caa.tuwien.ac.at/cvl/staff/sebastian-zambanini/",
+                "name": "Sebastian Zambanini"
+            }
+        ]
+    },
+    {
+        "name": "PatchCamelyon (PCam)",
+        "url": "https://github.com/basveeling/pcam",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2Jhc3ZlZWxpbmcvcGNhbQ==",
+        "authors": [
+            {
+                "link": "http://basveeling.nl/",
+                "name": "Bas Veeling"
+            }
+        ]
+    },
+    {
+        "name": "SceneNN",
+        "url": "http://www.scenenn.net/",
+        "type": "image",
+        "id": "5fa68ebc05bf4eb7859f05b05dfa5d54262e7ae2",
+        "authors": [
+            {
+                "email": "binhson.hua@gmail.com",
+                "link": "http://sonhua.github.io/",
+                "name": "Binh-Son Hua"
+            }
+        ]
+    },
+    {
+        "name": "ImageNet-C/P",
+        "url": "https://github.com/hendrycks/robustness",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2hlbmRyeWNrcy9yb2J1c3RuZXNz",
+        "authors": [
+            {
+                "email": "hendrycks@berkeley.edu",
+                "link": "https://people.eecs.berkeley.edu/~hendrycks/",
+                "name": "Dan Hendrycks"
+            }
+        ]
+    },
+    {
+        "name": "EuroCity Persons Dataset",
+        "url": "https://eurocity-dataset.tudelft.nl/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9ldXJvY2l0eS1kYXRhc2V0LnR1ZGVsZnQubmwv",
+        "authors": []
+    },
+    {
+        "name": "Conceptual Captions Dataset",
+        "url": "https://github.com/google-research-datasets/conceptual-captions",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS1yZXNlYXJjaC1kYXRhc2V0cy9jb25jZXB0dWFsLWNhcHRpb25z",
+        "authors": []
+    },
+    {
+        "name": "SUNCG",
+        "url": "http://suncg.cs.princeton.edu/",
+        "type": "image",
+        "id": "aHR0cDovL3N1bmNnLmNzLnByaW5jZXRvbi5lZHUv",
+        "authors": []
+    },
+    {
+        "name": "GQA",
+        "url": "http://visualreasoning.net",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "f0109d53cbc38cb753c6483f739d6d910e5b5c5c",
+        "authors": []
+    },
+    {
+        "name": "WebLogo 2M",
+        "url": "http://www.eecs.qmul.ac.uk/~hs308/WebLogo-2M.html/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5lZWNzLnFtdWwuYWMudWsvfmhzMzA4L1dlYkxvZ28tMk0uaHRtbC8=",
+        "authors": [
+            {
+                "link": "http://www.eecs.qmul.ac.uk/~hs308/",
+                "name": "Hang Su"
+            }
+        ]
+    },
+    {
+        "name": "Flickr-Faces-HQ Dataset",
+        "url": "https://github.com/NVlabs/ffhq-dataset",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL05WbGFicy9mZmhxLWRhdGFzZXQ=",
+        "authors": []
+    },
+    {
+        "name": "PeopleArt",
+        "url": "https://github.com/BathVisArtData/PeopleArt",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL0JhdGhWaXNBcnREYXRhL1Blb3BsZUFydA==",
+        "authors": []
+    },
+    {
+        "name": "DVQA",
+        "url": "https://github.com/kushalkafle/DVQA_dataset",
+        "badge": "CVPR2018",
+        "type": "image",
+        "id": "6b314f9391a3ad77c0056716fa8615e8c40a46bf",
+        "authors": []
+    },
+    {
+        "name": "Matterport 3D",
+        "url": "https://niessner.github.io/Matterport/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9uaWVzc25lci5naXRodWIuaW8vTWF0dGVycG9ydC8=",
+        "authors": []
+    },
+    {
+        "name": "TextVQA",
+        "url": "https://textvqa.org/",
+        "type": "image",
+        "id": "aHR0cHM6Ly90ZXh0dnFhLm9yZy8=",
+        "authors": []
+    },
+    {
+        "name": "LVIS v0.5",
+        "url": "http://www.lvisdataset.org/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "9c3b98c729835071cf213f96e50419b3826809a6",
+        "authors": [
+            {
+                "email": "agrimgupta92@gmail.com",
+                "link": "http://web.stanford.edu/~agrim/",
+                "name": "Agrim Gupta"
+            }
+        ]
+    },
+    {
+        "name": "Tencent ML-Images",
+        "url": "https://github.com/Tencent/tencent-ml-images",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL1RlbmNlbnQvdGVuY2VudC1tbC1pbWFnZXM=",
+        "authors": []
+    },
+    {
+        "name": "KITTI INStance dataset (KINS)",
+        "url": "https://github.com/qqlu/Amodal-Instance-Segmentation-through-KINS-Dataset",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "7a4b451220a69ac77f139ba256e819654ec9d8d3",
+        "authors": []
+    },
+    {
+        "name": "Learning to see in the dark",
+        "url": "http://web.engr.illinois.edu/~cchen156/SID.html",
+        "type": "image",
+        "id": "aHR0cDovL3dlYi5lbmdyLmlsbGlub2lzLmVkdS9+Y2NoZW4xNTYvU0lELmh0bWw=",
+        "authors": []
+    },
+    {
+        "name": "CINIC-10",
+        "url": "https://github.com/BayesWatch/cinic-10",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL0JheWVzV2F0Y2gvY2luaWMtMTA=",
+        "authors": [
+            {
+                "email": "l.n.darlow@sms.ed.ac.uk",
+                "link": "http://www.lukedarlow.com/",
+                "name": "Luke Darlow"
+            }
+        ]
+    },
+    {
+        "name": "The Rijksmuseum Challenge Dataset",
+        "url": "https://staff.fnwi.uva.nl/t.e.j.mensink/uva12/rijks/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9zdGFmZi5mbndpLnV2YS5ubC90LmUuai5tZW5zaW5rL3V2YTEyL3JpamtzLw==",
+        "authors": []
+    },
+    {
+        "name": "DANBOORU2017",
+        "url": "https://www.gwern.net/Danbooru2017",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cuZ3dlcm4ubmV0L0RhbmJvb3J1MjAxNw==",
+        "authors": []
+    },
+    {
+        "name": "OK-VQA",
+        "url": "https://okvqa.allenai.org/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "ea8ac3d6364579dd00a4d30f0775e8efe477c231",
+        "authors": []
+    },
+    {
+        "name": "SCUT-FBP5500 dataset",
+        "url": "https://github.com/HCIILAB/SCUT-FBP5500-Database-Release",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL0hDSUlMQUIvU0NVVC1GQlA1NTAwLURhdGFiYXNlLVJlbGVhc2U=",
+        "authors": []
+    },
+    {
+        "name": "Exclusively Dark (ExDark) Image Dataset",
+        "url": "https://github.com/cs-chan/Exclusively-Dark-Image-Dataset",
+        "badge": "CVIU2019",
+        "type": "image",
+        "id": "b12334995b4f15c62dc3785ea9ea583e47664ab1",
+        "authors": [
+            {
+                "email": "cs.chan@um.edu.my",
+                "link": "http://cs-chan.com/",
+                "name": "C.S. Chan"
+            }
+        ]
+    },
+    {
+        "name": "TrackingNet",
+        "url": "https://tracking-net.org/",
+        "type": "image",
+        "id": "aHR0cHM6Ly90cmFja2luZy1uZXQub3JnLw==",
+        "authors": []
+    },
+    {
+        "name": "The Visual Localization Benchmark",
+        "url": "https://www.visuallocalization.net/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "64cd7d877b6b8c0ef7a86afc1b9344df657bfe61",
+        "authors": []
+    },
+    {
+        "name": "Completion3D",
+        "url": "http://completion3d.stanford.edu/",
+        "badge": "Stanford",
+        "type": "image",
+        "id": "3736973c466e69a647280d62a3ef8365b6362178",
+        "authors": []
+    },
+    {
+        "name": "The Boxy Vehicles Dataset",
+        "url": "https://boxy-dataset.com/boxy/",
+        "badge": "BOSCH",
+        "type": "image",
+        "id": "51552e5b6c8c4a68d0b233b4449bb76d983971ac",
+        "authors": []
+    },
+    {
+        "name": "THE 20BN-JESTER DATASET",
+        "url": "https://www.twentybn.com/datasets/jester",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cudHdlbnR5Ym4uY29tL2RhdGFzZXRzL2plc3Rlcg==",
+        "authors": []
+    },
+    {
+        "name": "PhotoArt50",
+        "url": "https://github.com/BathVisArtData/PhotoArt50",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL0JhdGhWaXNBcnREYXRhL1Bob3RvQXJ0NTA=",
+        "authors": []
+    },
+    {
+        "name": "HDR+ Burst Photography Dataset",
+        "url": "http://hdrplusdata.org/dataset.html",
+        "type": "image",
+        "id": "aHR0cDovL2hkcnBsdXNkYXRhLm9yZy9kYXRhc2V0Lmh0bWw=",
+        "authors": []
+    },
+    {
+        "name": "Replica Dataset",
+        "url": "https://github.com/facebookresearch/Replica-Dataset",
+        "badge": "Facebook",
+        "type": "image",
+        "id": "466eee74d5f861087557698c51906dfde5e1c89c",
+        "authors": []
+    },
+    {
+        "name": "RobotriX",
+        "url": "https://github.com/3dperceptionlab/therobotrix",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tLzNkcGVyY2VwdGlvbmxhYi90aGVyb2JvdHJpeA==",
+        "authors": [
+            {
+                "email": "agarcia@dtic.ua.es",
+                "name": "Albert Garcia"
+            }
+        ]
+    },
+    {
+        "name": "Dunhuang Grottoes Painting Dataset",
+        "url": "http://www.cvl.iis.u-tokyo.ac.jp/e-Heritage2019/index.php?id=challenge",
+        "badge": "ICCV2019",
+        "type": "image",
+        "id": "074328b7029165c34f3f0170d28c619c162bdd1c",
+        "authors": []
+    },
+    {
+        "name": "Synscapes",
+        "url": "https://7dlabs.com/synscapes-overview",
+        "type": "image",
+        "id": "aHR0cHM6Ly83ZGxhYnMuY29tL3N5bnNjYXBlcy1vdmVydmlldw==",
+        "authors": [
+            {
+                "email": "info@7dlabs.com",
+                "link": "https://7dlabs.com/",
+                "name": "7D Labs"
+            }
+        ]
+    },
+    {
+        "name": "RecipeQA",
+        "url": "https://hucvl.github.io/recipeqa/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9odWN2bC5naXRodWIuaW8vcmVjaXBlcWEv",
+        "authors": []
+    },
+    {
+        "name": "CADP",
+        "url": "https://ankitshah009.github.io/accident_forecasting_traffic_camera",
+        "type": "image",
+        "id": "aHR0cHM6Ly9hbmtpdHNoYWgwMDkuZ2l0aHViLmlvL2FjY2lkZW50X2ZvcmVjYXN0aW5nX3RyYWZmaWNfY2FtZXJh",
+        "authors": [
+            {
+                "email": "aps1@andrew.cmu.edu",
+                "link": "https://ankitshah009.github.io/",
+                "name": "Ankit Shah"
+            }
+        ]
+    },
+    {
+        "name": "Kuzushiji-MNIST (KMNIST)",
+        "url": "https://github.com/rois-codh/kmnist/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL3JvaXMtY29kaC9rbW5pc3Qv",
+        "authors": [
+            {
+                "link": "https://twitter.com/tkasasagi",
+                "name": "Tarin tkasasagi"
+            }
+        ]
+    },
+    {
+        "name": "Humans3.6M",
+        "url": "http://vision.imar.ro/human3.6m/description.php",
+        "type": "image",
+        "id": "aHR0cDovL3Zpc2lvbi5pbWFyLnJvL2h1bWFuMy42bS9kZXNjcmlwdGlvbi5waHA=",
+        "authors": []
+    },
+    {
+        "name": "EPIC-Kitchens",
+        "url": "https://epic-kitchens.github.io/2018",
+        "type": "image",
+        "id": "aHR0cHM6Ly9lcGljLWtpdGNoZW5zLmdpdGh1Yi5pby8yMDE4",
+        "authors": []
+    },
+    {
+        "name": "Mapillary Vistas",
+        "url": "https://www.mapillary.com/dataset/vistas",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cubWFwaWxsYXJ5LmNvbS9kYXRhc2V0L3Zpc3Rhcw==",
+        "authors": [
+            {
+                "email": "research@mapillary.com",
+                "link": "https://research.mapillary.com/",
+                "name": "Mapillary Research"
+            }
+        ]
+    },
+    {
+        "name": "PHD2",
+        "url": "https://github.com/gyglim/personalized-highlights-dataset",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2d5Z2xpbS9wZXJzb25hbGl6ZWQtaGlnaGxpZ2h0cy1kYXRhc2V0",
+        "authors": []
+    },
+    {
+        "name": "MRNet Dataset",
+        "url": "https://stanfordmlgroup.github.io/competitions/mrnet/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9zdGFuZm9yZG1sZ3JvdXAuZ2l0aHViLmlvL2NvbXBldGl0aW9ucy9tcm5ldC8=",
+        "authors": []
+    },
+    {
+        "name": "Active Vision Dataset",
+        "url": "http://cs.unc.edu/~ammirato/active_vision_dataset_website/index.html",
+        "type": "image",
+        "id": "aHR0cDovL2NzLnVuYy5lZHUvfmFtbWlyYXRvL2FjdGl2ZV92aXNpb25fZGF0YXNldF93ZWJzaXRlL2luZGV4Lmh0bWw=",
+        "authors": []
+    },
+    {
+        "name": "Inria Aerial Image",
+        "url": "https://project.inria.fr/aerialimagelabeling/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9wcm9qZWN0LmlucmlhLmZyL2FlcmlhbGltYWdlbGFiZWxpbmcv",
+        "authors": []
+    },
+    {
+        "name": "CCPD",
+        "url": "https://github.com/detectRecog/CCPD",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2RldGVjdFJlY29nL0NDUEQ=",
+        "authors": []
+    },
+    {
+        "name": "VisDrone",
+        "url": "http://aiskyeye.com/",
+        "type": "image",
+        "id": "aHR0cDovL2Fpc2t5ZXllLmNvbS8=",
+        "authors": []
+    },
+    {
+        "name": "ECUSTFD",
+        "url": "https://github.com/Liang-yc/ECUSTFD-resized-",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL0xpYW5nLXljL0VDVVNURkQtcmVzaXplZC0=",
+        "authors": []
+    },
+    {
+        "name": "Real Rain Dataset",
+        "url": "https://stevewongv.github.io/derain-project.html",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "392595f99b0ea20d31a926f692b99e91708f86f8",
+        "authors": [
+            {
+                "email": "rynson.lau@cityu.edu.hk",
+                "link": "http://www.cs.cityu.edu.hk/~rynson/",
+                "name": "Rynson W.H. Lau"
+            }
+        ]
+    },
+    {
+        "name": "DroneViewBI",
+        "url": "https://jacky82226.github.io/DVBI/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9qYWNreTgyMjI2LmdpdGh1Yi5pby9EVkJJLw==",
+        "authors": []
+    },
+    {
+        "name": "Trash Annotations in Context (TACO)",
+        "url": "http://tacodataset.org/",
+        "badge": "AI4Good",
+        "type": "image",
+        "id": "f6bbc3687fb28c72ecc6adf57f7fe0e6f279f12c",
+        "authors": [
+            {
+                "email": "pproenxa@gmail.com",
+                "link": "https://pedropro.github.io/",
+                "name": "Pedro Proen\u00e7a"
+            }
+        ]
+    },
+    {
+        "name": "BraTS",
+        "url": "http://www.med.upenn.edu/sbia/brats2017/data.html",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5tZWQudXBlbm4uZWR1L3NiaWEvYnJhdHMyMDE3L2RhdGEuaHRtbA==",
+        "authors": []
+    },
+    {
+        "name": "Google Landmarks V2",
+        "url": "https://github.com/cvdfoundation/google-landmark",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL2N2ZGZvdW5kYXRpb24vZ29vZ2xlLWxhbmRtYXJr",
+        "authors": []
+    },
+    {
+        "name": "CLEVR",
+        "url": "https://cs.stanford.edu/people/jcjohns/clevr/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9jcy5zdGFuZm9yZC5lZHUvcGVvcGxlL2pjam9obnMvY2xldnIv",
+        "authors": [
+            {
+                "email": "jcjohns@cs.stanford.edu",
+                "link": "https://cs.stanford.edu/people/jcjohns/",
+                "name": "Justin Johnson"
+            }
+        ]
+    },
+    {
+        "name": "DeepWeeds",
+        "url": "https://github.com/AlexOlsen/DeepWeeds",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL0FsZXhPbHNlbi9EZWVwV2VlZHM=",
+        "authors": []
+    },
+    {
+        "name": "CheXpert",
+        "url": "https://stanfordmlgroup.github.io/competitions/chexpert/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9zdGFuZm9yZG1sZ3JvdXAuZ2l0aHViLmlvL2NvbXBldGl0aW9ucy9jaGV4cGVydC8=",
+        "authors": [
+            {
+                "email": "jirvin16@cs.stanford.edu",
+                "link": "https://jirvin16.github.io/",
+                "name": "Jeremy Irvin"
+            },
+            {
+                "email": "pranavsr@cs.stanford.edu",
+                "link": "https://rajpurkar.github.io/",
+                "name": "Pranav Rajpurkar"
+            }
+        ]
+    },
+    {
+        "name": "D\u00b2-City",
+        "url": "https://outreach.didichuxing.com/d2city/d2city",
+        "type": "image",
+        "id": "aHR0cHM6Ly9vdXRyZWFjaC5kaWRpY2h1eGluZy5jb20vZDJjaXR5L2QyY2l0eQ==",
+        "authors": [
+            {
+                "link": "https://www.didiglobal.com/science/ailabs",
+                "name": "DiDi Chuxing"
+            }
+        ]
+    },
+    {
+        "name": "3D Hand Pose",
+        "url": "http://www.rovit.ua.es/dataset/mhpdataset/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5yb3ZpdC51YS5lcy9kYXRhc2V0L21ocGRhdGFzZXQv",
+        "authors": [
+            {
+                "name": "Fran Gomez-Donoso"
+            }
+        ]
+    },
+    {
+        "name": "Cataracts Challenge Dataset",
+        "url": "https://cataracts.grand-challenge.org/Data/",
+        "badge": "none",
+        "type": "image",
+        "id": "8681a36b7cbf7849e000a29afa5ec59516370c6d",
+        "authors": []
+    },
+    {
+        "name": "NIH Chest X-ray datset",
+        "url": "https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cubmloLmdvdi9uZXdzLWV2ZW50cy9uZXdzLXJlbGVhc2VzL25paC1jbGluaWNhbC1jZW50ZXItcHJvdmlkZXMtb25lLWxhcmdlc3QtcHVibGljbHktYXZhaWxhYmxlLWNoZXN0LXgtcmF5LWRhdGFzZXRzLXNjaWVudGlmaWMtY29tbXVuaXR5",
+        "authors": []
+    },
+    {
+        "name": "Earth Engine Data",
+        "url": "https://developers.google.com/earth-engine/datasets/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vZWFydGgtZW5naW5lL2RhdGFzZXRzLw==",
+        "authors": [
+            {
+                "name": "Google"
+            }
+        ]
+    },
+    {
+        "name": "Images at the MET",
+        "url": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cubWV0bXVzZXVtLm9yZy9hYm91dC10aGUtbWV0L3BvbGljaWVzLWFuZC1kb2N1bWVudHMvb3Blbi1hY2Nlc3M=",
+        "authors": []
+    },
+    {
+        "name": "Crowd Instance-level Human Parsing (CIHP) Dataset",
+        "url": "http://www.sysu-hcp.net/lip/index.php",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5zeXN1LWhjcC5uZXQvbGlwL2luZGV4LnBocA==",
+        "authors": []
+    },
+    {
+        "name": "YouTube-VOS",
+        "url": "https://youtube-vos.org/",
+        "type": "image",
+        "id": "aHR0cHM6Ly95b3V0dWJlLXZvcy5vcmcv",
+        "authors": []
+    },
+    {
+        "name": "LAOFIW Dataset",
+        "url": "http://www.robots.ox.ac.uk/~vgg/data/laofiw/",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5yb2JvdHMub3guYWMudWsvfnZnZy9kYXRhL2xhb2Zpdy8=",
+        "authors": []
+    },
+    {
+        "name": "RGB+D Dataset",
+        "url": "https://dimlrgbd.github.io/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9kaW1scmdiZC5naXRodWIuaW8v",
+        "authors": []
+    },
+    {
+        "name": "UAV-GESTURE",
+        "url": "https://asankagp.github.io/uavgesture/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9hc2Fua2FncC5naXRodWIuaW8vdWF2Z2VzdHVyZS8=",
+        "authors": []
+    },
+    {
+        "name": "UTA-RLDD",
+        "url": "https://sites.google.com/view/utarldd/home",
+        "type": "image",
+        "id": "aHR0cHM6Ly9zaXRlcy5nb29nbGUuY29tL3ZpZXcvdXRhcmxkZC9ob21l",
+        "authors": [
+            {
+                "email": "reza.ghoddoosian@mavs.uta.edu",
+                "name": "Reza Ghoddoosian"
+            }
+        ]
+    },
+    {
+        "name": "Gibson Environment",
+        "url": "http://gibsonenv.stanford.edu/",
+        "type": "image",
+        "id": "aHR0cDovL2dpYnNvbmVudi5zdGFuZm9yZC5lZHUv",
+        "authors": []
+    },
+    {
+        "name": "SkelNetOn Dataset",
+        "url": "http://ubee.enseeiht.fr/skelneton/index.html",
+        "type": "image",
+        "id": "aHR0cDovL3ViZWUuZW5zZWVpaHQuZnIvc2tlbG5ldG9uL2luZGV4Lmh0bWw=",
+        "authors": []
+    },
+    {
+        "name": "CityFlow",
+        "url": "https://www.aicitychallenge.org/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "615bc2d935cb81fad49f061da291ba6da21eba5e",
+        "authors": [
+            {
+                "email": "tangzhengthomas@gmail.com",
+                "link": "https://sites.google.com/site/zhengthomastang/",
+                "name": "Zheng Tang"
+            }
+        ]
+    },
+    {
+        "name": "Waymo Open Dataset",
+        "url": "https://waymo.com/open",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "260ca8164e1a4b5b65d4235561cd05df8c4d7d7d",
+        "authors": [
+            {
+                "email": "open-dataset@waymo.com",
+                "link": "https://waymo.com/open/",
+                "name": "Waymo Open Dataset"
+            }
+        ]
+    },
+    {
+        "name": "VizWiz-Priv Dataset",
+        "url": "http://vizwiz.org/tasks-and-datasets/vizwiz-priv/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "36816f6cb80f5572cf8d5af3b3cf803e7a059573",
+        "authors": []
+    },
+    {
+        "name": "Kinetics",
+        "url": "https://deepmind.com/research/open-source/open-source-datasets/kinetics/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9kZWVwbWluZC5jb20vcmVzZWFyY2gvb3Blbi1zb3VyY2Uvb3Blbi1zb3VyY2UtZGF0YXNldHMva2luZXRpY3Mv",
+        "authors": []
+    },
+    {
+        "name": "iWildCam 2019 Challenge",
+        "url": "https://github.com/visipedia/iwildcam_comp",
+        "type": "image",
+        "id": "aHR0cHM6Ly9naXRodWIuY29tL3Zpc2lwZWRpYS9pd2lsZGNhbV9jb21w",
+        "authors": []
+    },
+    {
+        "name": "The BreakingNews Dataset",
+        "url": "http://www.iri.upc.edu/groups/perception/#BreakingNews",
+        "badge": "PAMI2018",
+        "type": "image",
+        "id": "44a7fc946e06ef49a681141381c1b47bf501faef",
+        "authors": [
+            {
+                "email": "aramisa@iri.upc.edu",
+                "link": "http://www.iri.upc.edu/people/aramisa/",
+                "name": "Arnau Ramisa"
+            }
+        ]
+    },
+    {
+        "name": "NEXET",
+        "url": "https://www.getnexar.com/challenge-2/",
+        "type": "image",
+        "id": "aHR0cHM6Ly93d3cuZ2V0bmV4YXIuY29tL2NoYWxsZW5nZS0yLw==",
+        "authors": [
+            {
+                "link": "https://www.getnexar.com/",
+                "name": "Nexar"
+            }
+        ]
+    },
+    {
+        "name": "SAIL-VOS",
+        "url": "http://sailvos.web.illinois.edu/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "ea36e92aaefe682f898909b25342f0a7eb7fe5f3",
+        "authors": []
+    },
+    {
+        "name": "ADHA",
+        "url": "http://www.mvig.org/research/adha/adha.html",
+        "type": "image",
+        "id": "aHR0cDovL3d3dy5tdmlnLm9yZy9yZXNlYXJjaC9hZGhhL2FkaGEuaHRtbA==",
+        "authors": [
+            {
+                "link": "http://www.mvig.org/index.html",
+                "name": "Cewu Lu"
+            }
+        ]
+    },
+    {
+        "name": "Mid-Air Dataset",
+        "url": "https://midair.ulg.ac.be/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9taWRhaXIudWxnLmFjLmJlLw==",
+        "authors": []
+    },
+    {
+        "name": "Leeds Sports Pose Dataset",
+        "url": "http://sam.johnson.io/research/lsp.html",
+        "type": "image",
+        "id": "aHR0cDovL3NhbS5qb2huc29uLmlvL3Jlc2VhcmNoL2xzcC5odG1s",
+        "authors": []
+    },
+    {
+        "name": "Plant Seedlings Dataset",
+        "url": "https://vision.eng.au.dk/plant-seedlings-dataset/",
+        "type": "image",
+        "id": "aHR0cHM6Ly92aXNpb24uZW5nLmF1LmRrL3BsYW50LXNlZWRsaW5ncy1kYXRhc2V0Lw==",
+        "authors": []
+    },
+    {
+        "name": "WIDER FACE",
+        "url": "http://shuoyang1213.me/WIDERFACE/",
+        "type": "image",
+        "id": "aHR0cDovL3NodW95YW5nMTIxMy5tZS9XSURFUkZBQ0Uv",
+        "authors": [
+            {
+                "email": "ys014@ie.cuhk.edu.hk",
+                "link": "http://mmlab.ie.cuhk.edu.hk/html_people/postgraduate_Shuo_Yang.html",
+                "name": "Shuo Yang"
+            }
+        ]
+    },
+    {
+        "name": "Da Vinci Dataset",
+        "url": "http://hi.cs.waseda.ac.jp/~esimo/en/data/davincidataset/",
+        "type": "image",
+        "id": "aHR0cDovL2hpLmNzLndhc2VkYS5hYy5qcC9+ZXNpbW8vZW4vZGF0YS9kYXZpbmNpZGF0YXNldC8=",
+        "authors": []
+    },
+    {
+        "name": "VMMRdb",
+        "url": "http://vmmrdb.cecsresearch.org",
+        "type": "image",
+        "id": "aHR0cDovL3ZtbXJkYi5jZWNzcmVzZWFyY2gub3Jn",
+        "authors": []
+    },
+    {
+        "name": "FMD",
+        "url": "https://github.com/bmmi/denoising-fluorescence",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "f5d345af98f0f10b87664263c3d9270e7e6c2f19",
+        "authors": []
+    },
+    {
+        "name": "LaSOT",
+        "url": "https://cis.temple.edu/lasot/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "fb675301b8e580771f61f4b3192b19d0c7e0fd4f",
+        "authors": []
+    },
+    {
+        "name": "Social-IQ",
+        "url": "https://www.thesocialiq.com/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "id": "85ae7a2a41153c86800323ebb8b8ff6ff5121b0d",
+        "authors": []
+    },
+    {
+        "name": "OpenNEURO",
+        "url": "https://openneuro.org/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9vcGVubmV1cm8ub3JnLw==",
+        "authors": [
+            {
+                "email": "openfmri@gmail.com",
+                "link": "http://reproducibility.stanford.edu/",
+                "name": "Stanford Center for Reproducible Neuroscience"
+            }
+        ]
+    },
+    {
+        "name": "Flash and Ambient Illuminations Dataset (FAID)",
+        "url": "http://people.inf.ethz.ch/aksoyy/faid/",
+        "type": "image",
+        "id": "aHR0cDovL3Blb3BsZS5pbmYuZXRoei5jaC9ha3NveXkvZmFpZC8=",
+        "authors": []
+    },
+    {
+        "name": "BOLD5000",
+        "url": "https://bold5000.github.io/",
+        "type": "image",
+        "id": "aHR0cHM6Ly9ib2xkNTAwMC5naXRodWIuaW8v",
+        "authors": []
+    },
+    {
+        "name": "CORe50",
+        "url": "https://vlomonaco.github.io/core50/",
+        "badge": "none",
+        "type": "image",
+        "authors": []
+    },
+    {
+        "name": "Structured3D",
+        "url": "https://structured3d-dataset.org/",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "zhengjia@shanghaitech.edu.cn",
+                "link": "https://bertjiazheng.github.io/",
+                "name": "Jia Zheng"
+            }
+        ]
+    },
+    {
+        "name": "DIODE",
+        "url": "https://diode-dataset.org/",
+        "badge": "TTIC",
+        "type": "image",
+        "authors": [
+            {
+                "email": "ivas@ttic.edu",
+                "link": "https://www.linkedin.com/in/igor-vasiljevic-9ba0a951/",
+                "name": "Igor Vasiljevic"
+            },
+            {
+                "email": "gregory@ttic.edu",
+                "link": "https://ttic.uchicago.edu/~gregory/",
+                "name": "Greg Shakhnarovich"
+            }
+        ]
+    },
+    {
+        "name": "Embrapa WGISD",
+        "url": "https://github.com/thsant/wgisd",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "thiago.santos@embrapa.br",
+                "link": "",
+                "name": "Thiago T. Santos"
+            },
+            {
+                "email": "leonardolimasza@gmail.com",
+                "link": "",
+                "name": "Leonardo L. de Souza"
+            }
+        ]
+    },
+    {
+        "name": "Kannada-MNIST",
+        "url": "https://github.com/vinayprabhu/Kannada_MNIST",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "dig.mnist@gmail.com",
+                "link": "",
+                "name": "Vinay Uday Prabhu"
+            }
+        ]
+    },
+    {
+        "name": "VaTeX",
+        "url": "https://vatex.org/main/index.html",
+        "badge": "UCSB/ByteDance",
+        "type": "image",
+        "authors": [
+            {
+                "email": "vatex.org@gmail.com",
+                "link": "https://vatex.org/main/index.html",
+                "name": "VaTeX team"
+            },
+            {
+                "email": "xwang@cs.ucsb.edu",
+                "link": "https://sites.cs.ucsb.edu/~xwang/",
+                "name": "Xin (Eric) Wang"
+            }
+        ]
+    },
+    {
+        "name": "Visual Commonsense Reasoning (VCR)",
+        "url": "http://visualcommonsense.com/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "rowanz@cs.washington.edu",
+                "link": "https://rowanzellers.com/",
+                "name": "Rowan Zellers"
+            }
+        ]
+    },
+    {
+        "name": "Pix3D",
+        "url": "http://pix3d.csail.mit.edu/",
+        "badge": "CVPR2018",
+        "type": "image",
+        "authors": [
+            {
+                "email": "xingyuansun.cs@gmail.com",
+                "link": "http://people.csail.mit.edu/xingyuan/",
+                "name": "Xingyuan Sun"
+            }
+        ]
+    },
+    {
+        "name": "Contour Drawing Dataset",
+        "url": "http://www.cs.cmu.edu/~mengtial/proj/sketch/",
+        "badge": "WACV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "mtli@cs.cmu.edu",
+                "link": "http://www.cs.cmu.edu/~mengtial/",
+                "name": "Mengtian (Martin) Li"
+            }
+        ]
+    },
+    {
+        "name": "Multiple Light Source Dataset",
+        "url": "https://github.com/visillect/mls-dataset",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "info@visillect.com",
+                "link": "http://visillect.com/en",
+                "name": "Visillect"
+            }
+        ]
+    },
+    {
+        "name": "Arabic Handwritten Digits Dataset",
+        "url": "https://mloey.github.io/research/research1.html",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "mloey@fci.bu.edu.eg",
+                "link": "https://mloey.github.io/index.html",
+                "name": "Mohamed Loey"
+            }
+        ]
+    },
+    {
+        "name": "Arabic Handwritten Characters Dataset",
+        "url": "https://mloey.github.io/research/research2.html",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "mloey@fci.bu.edu.eg",
+                "link": "https://mloey.github.io/index.html",
+                "name": "Mohamed Loey"
+            }
+        ]
+    },
+    {
+        "name": "Out the Window",
+        "url": "https://stresearch.github.io/otw/",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "gregory.castanon@stresearch.com",
+                "link": "https://www.linkedin.com/in/gregory-casta%C3%B1%C3%B3n-b99a6415/",
+                "name": "Gregory Castanon"
+            }
+        ]
+    },
+    {
+        "name": "WoodScape",
+        "url": "https://github.com/valeoai/woodscape",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "senthil.yogamani@valeo.com",
+                "link": "https://www.linkedin.com/in/senthilyogamani/",
+                "name": "Senthil Yogamani"
+            }
+        ]
+    },
+    {
+        "name": "3R-Scan",
+        "url": "https://waldjohannau.github.io/RIO/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "johanna.wald@tum.de",
+                "link": "http://campar.in.tum.de/Main/JohannaWald",
+                "name": "Johanna Wald"
+            },
+            {
+                "email": "niessner@tum.de",
+                "link": "http://niessnerlab.org/members/matthias_niessner/profile.html",
+                "name": "Matthias Nie\u00dfner"
+            }
+        ]
+    },
+    {
+        "name": "Anime Face Dataset",
+        "url": "https://github.com/Mckinsey666/Anime-Face-Dataset",
+        "badge": "none",
+        "type": "image",
+        "authors": []
+    },
+    {
+        "name": "Scan-CAD Object Similarity Dataset",
+        "url": "https://github.com/xheon/JointEmbedding",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "manuel.dahnert@tum.de",
+                "link": "http://niessnerlab.org/members/manuel_dahnert/profile.html",
+                "name": "Manuel Dahnert"
+            }
+        ]
+    },
+    {
+        "name": "The PhotoBook Dataset",
+        "url": "https://dmg-photobook.github.io/dataset.html",
+        "badge": "ACL2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "mail@janoschhaber.com",
+                "link": "http://janoschhaber.com/",
+                "name": "Janosch Haber"
+            }
+        ]
+    },
+    {
+        "name": "Kenyan Food",
+        "url": "https://github.com/monajalal/Kenyan-Food",
+        "badge": "ACMMM2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "jalal@bu.edu",
+                "link": "http://monajalal.com/",
+                "name": "Mona Jalal"
+            }
+        ]
+    },
+    {
+        "name": "AMASS",
+        "url": "https://amass.is.tue.mpg.de/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "nmahmood@meshcapade.com",
+                "link": "https://ps.is.tuebingen.mpg.de/person/nmahmood",
+                "name": "Naureen Mahmood"
+            },
+            {
+                "email": "troje@yorku.ca",
+                "link": "",
+                "name": "Nikolaus F. Troje"
+            }
+        ]
+    },
+    {
+        "name": "CURE-TSD",
+        "url": "https://github.com/olivesgatech/CURE-TSD",
+        "badge": "TITS2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "dcantemel@gmail.com",
+                "link": "http://cantemel.com",
+                "name": "Can Temel"
+            }
+        ]
+    },
+    {
+        "name": "A*3D",
+        "url": "https://github.com/I2RDL2/ASTAR-3D",
+        "badge": "I2R",
+        "type": "image",
+        "authors": [
+            {
+                "email": "lin-j@i2r.a-star.edu.sg",
+                "link": "",
+                "name": "Jie Lin"
+            }
+        ]
+    },
+    {
+        "name": "MinneApple",
+        "url": "http://rsn.cs.umn.edu/index.php/MinneApple",
+        "badge": "UMN",
+        "type": "image",
+        "authors": [
+            {
+                "email": "haeni001@umn.edu",
+                "link": "https://www.linkedin.com/in/nicolai-haeni/",
+                "name": "Haeni, Nicolai"
+            }
+        ]
+    },
+    {
+        "name": "FreiHAND Dataset",
+        "url": "https://lmb.informatik.uni-freiburg.de/projects/freihand/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "zimmermann@cs.uni-freiburg.de",
+                "link": "https://lmb.informatik.uni-freiburg.de/people/zimmermc/index.html",
+                "name": "Christian Zimmermann"
+            }
+        ]
+    },
+    {
+        "name": "Objects365",
+        "url": "https://www.objects365.org/overview.html",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "shaoshuai@megvii.com",
+                "link": "https://www.sshao.com/",
+                "name": "Shuai Shao"
+            }
+        ]
+    },
+    {
+        "name": "Generated Faces",
+        "url": "https://generated.photos/",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "work.with@generated.photos",
+                "link": "https://generated.photos/",
+                "name": "Generated Photos"
+            }
+        ]
+    },
+    {
+        "name": "DeepFake Detection",
+        "url": "https://github.com/ondyari/FaceForensics/tree/master/dataset",
+        "badge": "Google",
+        "type": "image",
+        "authors": [
+            {
+                "email": "",
+                "link": "https://ai.google",
+                "name": "Google AI"
+            }
+        ]
+    },
+    {
+        "name": "1 million fake faces",
+        "url": "https://archive.org/details/1mFakeFaces",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "",
+                "link": "http://areben.com",
+                "name": "Alexander Reben"
+            }
+        ]
+    },
+    {
+        "name": "Celeb-DF",
+        "url": "http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "yli52@albany.edu",
+                "link": "https://www.albany.edu/~yl149995/",
+                "name": "Yuezun Li"
+            }
+        ]
+    },
+    {
+        "name": "Makeup Datasets",
+        "url": "http://www.antitza.com/makeup-datasets.html",
+        "badge": "none",
+        "type": "image",
+        "authors": [
+            {
+                "email": "antitza.dantcheva@inria.fr",
+                "link": "http://www.antitza.com/",
+                "name": "Antitza Dantcheva"
+            }
+        ]
+    },
+    {
+        "name": "SURREAL Dataset",
+        "url": "https://www.di.ens.fr/willow/research/surreal/data/",
+        "badge": "CVPR2017",
+        "type": "image",
+        "authors": [
+            {
+                "email": "gulvarols@gmail.com",
+                "link": "http://www.robots.ox.ac.uk/~gul/",
+                "name": "G\u00fcl Varol"
+            }
+        ]
+    },
+    {
+        "name": "REDS",
+        "url": "https://seungjunnah.github.io/Datasets/reds",
+        "badge": "CVPRW2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "seungjun.nah@gmail.com",
+                "link": "https://seungjunnah.github.io/",
+                "name": "Seungjun Nah"
+            }
+        ]
+    },
+    {
+        "name": "WiderPerson",
+        "url": "http://www.cbsr.ia.ac.cn/users/sfzhang/WiderPerson/",
+        "badge": "TMM2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "shifeng.zhang@nlpr.ia.ac.cn",
+                "link": "http://www.cbsr.ia.ac.cn/users/sfzhang/",
+                "name": "Shifeng Zhang"
+            }
+        ]
+    },
+    {
+        "name": "AEV Autonomous Driving Dataset (A2D2)",
+        "url": "https://www.audi-electronics-venture.de/aev/web/en/driving-dataset.html",
+        "badge": "Audi",
+        "type": "image",
+        "authors": []
+    },
+    {
+        "name": "CoMA",
+        "url": "https://coma.is.tue.mpg.de/",
+        "badge": "ECCV18",
+        "type": "image",
+        "authors": [
+            {
+                "email": "timo.bolkart@tuebingen.mpg.de",
+                "link": "https://sites.google.com/site/bolkartt",
+                "name": "Timo Bolkart"
+            }
+        ]
+    },
+    {
+        "name": "NoW Dataset",
+        "url": "https://ringnet.is.tue.mpg.de/challenge",
+        "badge": "CVPR2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "soubhik.sanyal@tuebingen.mpg.de",
+                "link": "https://ps.is.mpg.de/~ssanyal",
+                "name": "Soubhik Sanyal"
+            }
+        ]
+    },
+    {
+        "name": "VOCASET",
+        "url": "https://voca.is.tue.mpg.de/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "timo.bolkart@tuebingen.mpg.de",
+                "link": "https://sites.google.com/site/bolkartt",
+                "name": "Timo Bolkart"
+            }
+        ]
+    },
+    {
+        "name": "INTERACTION Dataset",
+        "url": "https://interaction-dataset.com/",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "wzhan@berkeley.edu",
+                "link": "https://path.berkeley.edu/wei-zhan",
+                "name": "Wei Zhan"
+            }
+        ]
+    },
+    {
+        "name": "CATER",
+        "url": "https://rohitgirdhar.github.io/CATER/",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "grohit@cmu.edu",
+                "link": "http://rohitgirdhar.github.io/",
+                "name": "Rohit Girdhar"
+            }
+        ]
+    },
+    {
+        "name": "CrowdFix",
+        "url": "https://github.com/MemoonaTahira/CrowdFix",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "mtahira.mscs17seecs@seecs.edu.pk",
+                "link": "",
+                "name": "Memoona Tahira"
+            }
+        ]
+    },
+    {
+        "name": "3D60 Dataset",
+        "url": "https://vcl3d.github.io/3D60/",
+        "badge": "ECCV2018",
+        "type": "image",
+        "authors": [
+            {
+                "email": "nzioulis@iti.gr",
+                "link": "https://zokin.github.io/",
+                "name": "Nick Zioulis"
+            }
+        ]
+    },
+    {
+        "name": "Mo2Cap2",
+        "url": "http://gvv.mpi-inf.mpg.de/projects/wxu/Mo2Cap2/",
+        "badge": "IEEEVR2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "wxu@mpi-inf.mpg.de",
+                "link": "http://people.mpi-inf.mpg.de/~wxu/",
+                "name": "Weipeng Xu"
+            }
+        ]
+    },
+    {
+        "name": "EarVN1.0",
+        "url": "https://data.mendeley.com/datasets/yws3v3mwx3/3",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "vinh.th@ieee.org",
+                "link": "https://sites.google.com/view/vinhsiam/",
+                "name": "Vinh Truong Hoang"
+            }
+        ]
+    },
+    {
+        "name": "ASTYX HIRES2019 DATASET",
+        "url": "https://www.astyx.com/development/astyx-hires2019-dataset.html",
+        "badge": "Astyx",
+        "type": "image",
+        "authors": [
+            {
+                "email": "m.meyer@astyx.de",
+                "link": "",
+                "name": "Michael Meyer"
+            }
+        ]
+    },
+    {
+        "name": "MonoPerfCap Dataset",
+        "url": "http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "wxu@mpi-inf.mpg.de",
+                "link": "http://people.mpi-inf.mpg.de/~wxu/",
+                "name": "Weipeng Xu"
+            }
+        ]
+    },
+    {
+        "name": "ScanObjectNN",
+        "url": "https://hkust-vgd.github.io/scanobjectnn/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "mikacuy@gmail.com",
+                "link": "https://mikacuy.github.io/",
+                "name": "Mikaela Angelina Uy"
+            },
+            {
+                "email": "pqhieu1192@gmail.com",
+                "link": "https://pqhieu.github.io/",
+                "name": "Quang-Hieu Pham"
+            },
+            {
+                "email": "binhson.hua@gmail.com",
+                "link": "https://sonhua.github.io/",
+                "name": "Binh-Son Hua"
+            },
+            {
+                "email": "duc.nguyen@deakin.edu.au",
+                "link": "https://ducthanhnguyen.weebly.com/",
+                "name": "Duc Thanh Nguyen"
+            },
+            {
+                "email": "saikit@ust.hk",
+                "link": "http://saikit.org/",
+                "name": "Sai-Kit Yeung"
+            }
+        ]
+    },
+    {
+        "name": "Drive&Act dataset",
+        "url": "https://www.driveandact.com/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "manuel.martin@iosb.fraunhofer.de",
+                "link": "https://www.iosb.fraunhofer.de/servlet/is/Entry.59512.Display/",
+                "name": "Manuel Martin"
+            },
+            {
+                "email": "michael.voit@iosb.fraunhofer.de",
+                "link": "https://www.iosb.fraunhofer.de/servlet/is/Entry.14953.Display/",
+                "name": "Michael Voit"
+            }
+        ]
+    },
+    {
+        "name": "VeRi Dataset",
+        "url": "https://vehiclereid.github.io/VeRi/",
+        "badge": "TMM2018",
+        "type": "image",
+        "authors": []
+    },
+    {
+        "name": "SVD",
+        "url": "https://svdbase.github.io/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "jiangqy@lamda.nju.edu.cn",
+                "link": "http://www.lamda.nju.edu.cn/jiangqy/?AspxAutoDetectCookieSupport=1",
+                "name": "Qing-Yuan Jiang"
+            }
+        ]
+    },
+    {
+        "name": "SpaceNet",
+        "url": "https://spacenet.ai/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": []
+    },
+    {
+        "name": "CapGaze",
+        "url": "https://github.com/SenHe/Human-Attention-in-Image-Captioning",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "senhe752@gmail.com",
+                "link": "",
+                "name": "Sen He"
+            },
+            {
+                "email": "aliborji@gmail.com",
+                "link": "http://aliborji.xyz/aliborji.html",
+                "name": "Ali Borji"
+            }
+        ]
+    },
+    {
+        "name": "MMAct",
+        "url": "https://mmact19.github.io/2019/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "quan.kong.xz@hitachi.com",
+                "link": "",
+                "name": "Quan Kong"
+            },
+            {
+                "email": "tongbin.tb@alibaba.com",
+                "link": "",
+                "name": "Bin Tong"
+            },
+            {
+                "email": "martin.klinkigt.ut@hitachi.com",
+                "link": "",
+                "name": "Martin Klinkigt"
+            },
+            {
+                "email": "tomokazu.murakami.xr@hitachi.com",
+                "link": "",
+                "name": "Tomokazu Murakami"
+            }
+        ]
+    },
+    {
+        "name": "HACS",
+        "url": "http://hacs.csail.mit.edu/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "HangZhao@mit.edu",
+                "link": "http://www.mit.edu/~hangzhao/",
+                "name": "Hang Zhao"
+            },
+            {
+                "email": "LT@dartmouth.edu",
+                "link": "https://www.cs.dartmouth.edu/~lorenzo/home.html",
+                "name": "Lorenzo Torresani"
+            },
+            {
+                "email": "torralba@mit.edu",
+                "link": "http://web.mit.edu/torralba/www/",
+                "name": "Antonio Torralba"
+            }
+        ]
+    },
+    {
+        "name": "SemanticKITTI",
+        "url": "http://www.semantic-kitti.org/index.html",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "jens.behley@igg.uni-bonn.de",
+                "link": "http://jbehley.github.io/",
+                "name": "Jens Behley"
+            }
+        ]
+    },
+    {
+        "name": "PROX datasets",
+        "url": "https://prox.is.tue.mpg.de/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "mohamed.hassan@tuebingen.mpg.de",
+                "link": "https://ps.is.tuebingen.mpg.de/person/mhassan",
+                "name": "Mohamed Hassan"
+            },
+            {
+                "email": "dimitris.tzionas@tuebingen.mpg.de",
+                "link": "https://ps.is.tuebingen.mpg.de/person/dtzionas",
+                "name": "Dimitrios Tzionas"
+            }
+        ]
+    },
+    {
+        "name": "OpenLORIS-object Dataset and Benchmark",
+        "url": "https://lifelong-robotic-vision.github.io/dataset/Data_Object-Recognition.html",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "qi.she@intel.com",
+                "link": "https://www.intel.ai/bio/qi-she/",
+                "name": "Qi She"
+            }
+        ]
+    },
+    {
+        "name": "Logo-2k+ Dataset",
+        "url": "https://github.com/msn199959/Logo-2k-plus-Dataset",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "",
+                "link": "",
+                "name": "Jing Wang"
+            }
+        ]
+    },
+    {
+        "name": "xBD Dataset",
+        "url": "https://xview2.org/dataset",
+        "badge": "CVPR2019",
+        "type": "image",
+        "authors": []
+    },
+    {
+        "name": "ObjectNet",
+        "url": "https://objectnet.dev/",
+        "badge": "MIT/IBM",
+        "type": "image",
+        "authors": [
+            {
+                "email": "abarbu@mit.edu",
+                "link": "http://0xab.com/",
+                "name": "Andrei Barbu"
+            },
+            {
+                "email": "dmayo2@mit.edu",
+                "link": "http://david-mayo.com/",
+                "name": "David Mayo"
+            }
+        ]
+    },
+    {
+        "name": "Expressive Hands and Faces (EHF)",
+        "url": "https://smpl-x.is.tue.mpg.de/",
+        "badge": "CVPR2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "smplx@tue.mpg.de",
+                "link": "",
+                "name": "SMPLX team"
+            }
+        ]
+    },
+    {
+        "name": "StreetHazards Dataset",
+        "url": "https://github.com/hendrycks/anomaly-seg",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "hendrycks@berkeley.edu",
+                "link": "https://people.eecs.berkeley.edu/~hendrycks/",
+                "name": "Dan Hendrycks"
+            }
+        ]
+    },
+    {
+        "name": " Audio-Visual Event (AVE) Dataset",
+        "url": "https://sites.google.com/view/audiovisualresearch",
+        "badge": "ECCV2018",
+        "type": "image",
+        "authors": [
+            {
+                "email": "yapengtian@rochester.edu",
+                "link": "http://yapengtian.org/",
+                "name": "Yapeng Tian"
+            }
+        ]
+    },
+    {
+        "name": "Distorted Document Images dataset (DDI-100)",
+        "url": "https://github.com/machine-intelligence-laboratory/DDI-100",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "ilya.zharikov@phystech.edu",
+                "link": "",
+                "name": "Ilia Zharikov"
+            }
+        ]
+    },
+    {
+        "name": "Fraunhofer IPA Bin-Picking dataset",
+        "url": "http://www.bin-picking.ai/en/dataset.html",
+        "badge": "IROS2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "kilian.kleeberger@ipa.fraunhofer.de",
+                "link": "",
+                "name": "Kilian Kleeberger"
+            },
+            {
+                "email": "christian.landgraf@ipa.fraunhofer.de",
+                "link": "",
+                "name": "Christian Landgraf"
+            }
+        ]
+    },
+    {
+        "name": "The Car Connection Picture Dataset",
+        "url": "https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data/tree/master/picture-scraper",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "",
+                "link": "https://github.com/nicolas-gervais",
+                "name": "Nicolas Gervais"
+            }
+        ]
+    },
+    {
+        "name": "DeeperForensics-1.0",
+        "url": "https://liming-jiang.com/projects/DrF1/DrF1.html",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "liming002@ntu.edu.sg",
+                "link": "https://liming-jiang.com/",
+                "name": "Liming Jiang"
+            },
+            {
+                "email": "ccloy@ntu.edu.sg",
+                "link": "http://personal.ie.cuhk.edu.hk/~ccloy/",
+                "name": "Chen Change Loy"
+            }
+        ]
+    },
+    {
+        "name": "Chess Pieces",
+        "url": "https://public.roboflow.ai/object-detection/chess-full",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "",
+                "link": "https://public.roboflow.ai/",
+                "name": "Roboflow"
+            }
+        ]
+    },
+    {
+        "name": "Cross-domain Object Dataset",
+        "url": "https://github.com/naoto0804/cross-domain-detection",
+        "badge": "CVPR2018",
+        "type": "image",
+        "authors": [
+            {
+                "email": "inoue@hal.t.u-tokyo.ac.jp",
+                "link": "https://naoto0804.github.io/",
+                "name": "Naoto Inoue"
+            }
+        ]
+    },
+    {
+        "name": "SVIRO",
+        "url": "https://sviro.kl.dfki.de/",
+        "badge": "WACV2020",
+        "type": "image",
+        "authors": [
+            {
+                "email": "steve.dias_da_cruz@dfki.de",
+                "link": "https://av.dfki.de/members/dias-da-cruz/",
+                "name": "Steve DIAS DA CRUZ"
+            }
+        ]
+    },
+    {
+        "name": "3DPeople Dataset",
+        "url": "https://cv.iri.upc-csic.es/",
+        "badge": "ICCV2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "apumarola@iri.upc.edu",
+                "link": "https://www.albertpumarola.com/",
+                "name": "Albert Pumarola"
+            }
+        ]
+    },
+    {
+        "name": "GDXray",
+        "url": "https://domingomery.ing.puc.cl/material/gdxray/",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "",
+                "link": "https://domingomery.ing.puc.cl/",
+                "name": "DOMINGO MERY"
+            }
+        ]
+    },
+    {
+        "name": "Oktoberfest Food Dataset",
+        "url": "https://github.com/a1302z/OktoberfestFoodDataset",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "alex.ziller@tum.de",
+                "link": "",
+                "name": "Alexander Ziller"
+            }
+        ]
+    },
+    {
+        "name": "NWPU-Crowd Dataset",
+        "url": "https://www.crowdbenchmark.com/nwpucrowd.html",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "crowdbenchmark.com@gmail.com",
+                "link": "",
+                "name": "Crowd Benchmark"
+            }
+        ]
+    },
+    {
+        "name": "Synthinel",
+        "url": "https://github.com/timqqt/Synthinel",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "",
+                "link": "https://bigdata.duke.edu/people/fanjie-kong",
+                "name": "Fanjie Kong"
+            }
+        ]
+    },
+    {
+        "name": "TVR Dataset",
+        "url": "https://tvr.cs.unc.edu/",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "jielei@cs.unc.edu",
+                "link": "http://www.cs.unc.edu/~jielei/",
+                "name": "Jie Lei"
+            }
+        ]
+    },
+    {
+        "name": "TVQA Dataset",
+        "url": "http://tvqa.cs.unc.edu/",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "jielei@cs.unc.edu",
+                "link": "http://www.cs.unc.edu/~jielei/",
+                "name": "Jie Lei"
+            }
+        ]
+    },
+    {
+        "name": "ScanRefer Dataset",
+        "url": "https://github.com/daveredrum/ScanRefer",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "zhenyu.chen@tum.de",
+                "link": "https://niessnerlab.org/members/zhenyu_chen/profile.html",
+                "name": "Dave Zhenyu Chen"
+            }
+        ]
+    },
+    {
+        "name": "Agriculture-Vision",
+        "url": "https://www.agriculture-vision.com/dataset",
+        "badge": "CVPRW2020",
+        "type": "image",
+        "authors": [
+            {
+                "email": "mtchiu2@illinois.edu",
+                "link": "https://www.linkedin.com/in/mtchiu/",
+                "name": "Mang Tik Chiu"
+            },
+            {
+                "email": "xingqian8@gmail.com",
+                "link": "",
+                "name": "Xingqian Xu"
+            }
+        ]
+    },
+    {
+        "name": "Totally Looks Like Dataset",
+        "url": "https://sites.google.com/view/totally-looks-like-dataset",
+        "badge": "ACCV2018",
+        "type": "image",
+        "authors": [
+            {
+                "email": "amir@cse.yorku.ca",
+                "link": "https://sites.google.com/view/amirrosenfeld/",
+                "name": "Amir Rosenfeld"
+            }
+        ]
+    },
+    {
+        "name": "ARDIS",
+        "url": "https://ardisdataset.github.io/ARDIS/",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "huseyin.kusetogullari@bth.se",
+                "link": "https://www.bth.se/eng/staff/huseyin-kusetogullari-hku/",
+                "name": "Huseyin Kusetogullari"
+            }
+        ]
+    },
+    {
+        "name": "ERA Dataset",
+        "url": "https://lcmou.github.io/ERA_Dataset/",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "lichao.mou@dlr.de",
+                "link": "https://sites.google.com/site/raphaelitemou/",
+                "name": "Lichao Mou"
+            }
+        ]
+    },
+    {
+        "name": "Canadian Adverse Driving Conditions Dataset",
+        "url": "http://cadcd.uwaterloo.ca/",
+        "badge": "UWaterloo",
+        "type": "image",
+        "authors": [
+            {
+                "email": "matthew.pitropov@uwaterloo.ca",
+                "link": "https://www.linkedin.com/in/mpitropov/?originalSubdomain=ca",
+                "name": "Matthew Pitropov"
+            }
+        ]
+    },
+    {
+        "name": "AU-AIR Dataset",
+        "url": "https://bozcani.github.io/auairdataset",
+        "badge": "ICRA2020",
+        "type": "image",
+        "authors": [
+            {
+                "email": "ilker@eng.au.dk",
+                "link": "https://bozcani.github.io/",
+                "name": "Ilker Bozcan"
+            }
+        ]
+    },
+    {
+        "name": "UFO-120",
+        "url": "http://irvlab.cs.umn.edu/resources/ufo-120-dataset",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "islam034@umn.edu",
+                "link": "https://www-users.cs.umn.edu/~islam034/",
+                "name": "Md Jahidul Islam"
+            },
+            {
+                "email": "junaed@umn.edu",
+                "link": "https://junaedsattar.cs.umn.edu/",
+                "name": "Junaed Sattar"
+            }
+        ]
+    },
+    {
+        "name": "Transparent Objects Datasets",
+        "url": "https://sites.google.com/view/transparent-objects",
+        "badge": "ICRA2020,Google",
+        "type": "image",
+        "authors": [
+            {
+                "email": "",
+                "link": "https://www.linkedin.com/in/shreeyak-sajjan/",
+                "name": "Shreeyak Sajjan"
+            },
+            {
+                "email": "andyzeng@google.com",
+                "link": "https://andyzeng.github.io/",
+                "name": "Andy Zhang"
+            },
+            {
+                "email": "shurans@cs.columbia.edu",
+                "link": "https://shurans.github.io/",
+                "name": "Shuran Song"
+            }
+        ]
+    },
+    {
+        "name": "FRSign Dataset",
+        "url": "https://frsign.irt-systemx.fr/",
+        "badge": "IRT SystemX",
+        "type": "image",
+        "authors": [
+            {
+                "email": "jeanine.harb@irt-systemx.fr",
+                "link": "https://www.linkedin.com/in/jeanineharb/",
+                "name": "Jeanine Harb"
+            }
+        ]
+    },
+    {
+        "name": "Fashion IQ",
+        "url": "https://github.com/XiaoxiaoGuo/fashion-iq",
+        "badge": "ICCVW2019",
+        "type": "image",
+        "authors": [
+            {
+                "email": "xiaoxiao.guo@ibm.com",
+                "link": "https://www.linkedin.com/in/xiaoxiao-guo-17b76873/",
+                "name": "Xiaoxiao Guo"
+            },
+            {
+                "email": "rsferis@us.ibm.com",
+                "link": "http://rogerioferis.com/",
+                "name": "Rogerio Feris"
+            },
+            {
+                "email": "srennie@gmail.com",
+                "link": "https://www.linkedin.com/in/steven-rennie-16b83b10/",
+                "name": "Steven Rennie"
+            }
+        ]
+    },
+    {
+        "name": "Touchdown Dataset",
+        "url": "https://github.com/lil-lab/touchdown",
+        "badge": "Cornell",
+        "type": "image",
+        "authors": [
+            {
+                "email": "hchen@asapp.com",
+                "link": "https://howard50b.github.io/",
+                "name": "Howard Chen"
+            },
+            {
+                "email": "snavely@cs.cornell.edu",
+                "link": "http://www.cs.cornell.edu/~snavely/",
+                "name": "Noah Snavely"
+            }
+        ]
+    },
+    {
+        "name": "KaoKore Dataset",
+        "url": "https://github.com/rois-codh/kaokore",
+        "badge": "",
+        "type": "image",
+        "authors": [
+            {
+                "email": "alan.yt.tian@gmail.com",
+                "link": "https://alantian.net/",
+                "name": "Yingtao Tian"
+            },
+            {
+                "email": "lambalex@iro.umontreal.ca",
+                "link": "https://sites.google.com/view/alexmlamb",
+                "name": "Alex Lamb"
+            },
+            {
+                "email": "tarin@fuji.waseda.jp",
+                "link": "https://twitter.com/tkasasagi",
+                "name": "Tarin Clanuwat"
+            }
+        ]
+    },
+    {
+        "name": "Open Image V6",
+        "url": "https://storage.googleapis.com/openimages/web/index.html?v6",
+        "badge": "Google",
+        "type": "image",
+        "authors": [
+            {
+                "email": "jponttuset@gmail.com",
+                "link": "https://jponttuset.cat/",
+                "name": "Jordi Pont-Tuset"
+            }
+        ]
+    }
+]
